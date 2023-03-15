@@ -1,6 +1,6 @@
 ### Welcome
 
-For my latest work, please visit [https://aspectron.com](https://aspectron.com)
+For my latest work, please visit <a href="https://aspectron.com/en/index.html#projects" target="_blank">https://aspectron.com</a>
 
 ### 🧰 Languages and Tools
 
