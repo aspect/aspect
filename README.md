@@ -5,6 +5,7 @@ For my latest work, please visit <a href="https://aspectron.com/en/index.html#pr
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Rust" height="32px" style="padding-right:10px;" src="https://aspectron.com/images/ferris.svg" />
+<img align="left" alt="WASM" height="32px" style="padding-right:10px;" src="https://aspectron.com/images/wasm.svg" />
 <img align="left" alt="TypeScript" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
