@@ -13,7 +13,7 @@ For my latest work, please visit <a href="https://aspectron.com/en/index.html#pr
 <img align="left" alt="C++" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Windows" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="left" alt="MacOS" height="32px" style="padding-right:10px;" src="https://aspectron.com/images/icons/mac.svg" />
+<img align="left" alt="MacOS" height="32px" style="padding-right:10px;" src="https://aspectron.com/images/icons/apple-b.svg" />
 <img align="left" alt="Linux" height="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
